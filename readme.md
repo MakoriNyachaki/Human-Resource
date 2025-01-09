@@ -2,7 +2,7 @@
 ## Objectives
 Create a data visualization that will help the human resource department to get key insights from the employee data that will be used in the better management of human resource and allocation of resourcesto the different departments in comoanies and enhance the decision making process.
 ## Dataset
-<a href ="https://www.kaggle.com/datasets/mexwell/data-sets-for-testing-human-resources">Kagggle Dataset</a>
+<a href ="https://www.kaggle.com/datasets/mexwell/data-sets-for-testing-human-resources">Kaggle Dataset</a>
 ## Questions (KPIs)
 * Determine average number of employees per state
 * Find the majority age group in the workforce
